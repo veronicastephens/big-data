@@ -11,7 +11,7 @@ Big Data Integration,
 Big Data Processing,
 Graph Analytics for Big Data,
 Machine Learning for Big Data,
-Big Data Visualization,
+Big Data Visualization
 
 Files included: 
 Completed course assignments
