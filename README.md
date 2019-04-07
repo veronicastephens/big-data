@@ -1,5 +1,8 @@
 ### bigdatatechnology
-Information Systems: Big Data Technology Course 
+
+Files included: Completed course assignments
+
+Information Systems Big Data Technology Course 
 
 Programs: Jupyter, Python, Spark (cloud-based environments)
 
@@ -13,5 +16,4 @@ Graph Analytics for Big Data,
 Machine Learning for Big Data,
 Big Data Visualization
 
-Files included: 
-Completed course assignments
+
