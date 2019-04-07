@@ -15,4 +15,4 @@ Big Data Visualization,
 Course Big Data Project 
 
 Files included: 
-Completed course assignments and final course project
+Completed course assignments
