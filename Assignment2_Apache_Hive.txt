@@ -1,0 +1,11 @@
+Assignment 2
+
+Write a Hive program to find the following information from foodmart Database <Table: sales_fact_dec_1998>: 
+Question: Top selling products
+
+SELECT str.store_sales, prod.product_name
+FROM sales_fact_dec_1998 str
+JOIN product prod
+ON (str.product_id = prod.product_id)
+ORDER BY str.store_sales DESC
+LIMIT 15;
