@@ -1,7 +1,7 @@
 ### bigdatatechnology
 Information Systems: Big Data Technology Course 
 
-Programs (cloud-based environments): Jupyter, Python, Spark
+Programs: Jupyter, Python, Spark (cloud-based environments)
 
 Course Topics: 
 Introduction to Big Data,
