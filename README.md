@@ -12,7 +12,6 @@ Big Data Processing,
 Graph Analytics for Big Data,
 Machine Learning for Big Data,
 Big Data Visualization,
-Course Big Data Project 
 
 Files included: 
 Completed course assignments
