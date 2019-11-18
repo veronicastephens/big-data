@@ -1,5 +1,3 @@
-Assignment 2
-
 Write a Hive program to find the following information from foodmart Database <Table: sales_fact_dec_1998>: 
 Question: Top selling products
 
